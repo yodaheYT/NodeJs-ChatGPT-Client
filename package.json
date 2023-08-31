@@ -1,0 +1,14 @@
+{
+  "name": "ChatGPT - Electron Windows Client",
+  "version": "2.0.0",
+  "description": "A desktop ChatGPT client for windows.",
+  "main": "main.js",
+  "author": "yodaheyt.github.io",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.2"
+  }
+}
